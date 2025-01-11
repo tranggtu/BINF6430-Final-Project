@@ -97,7 +97,7 @@ The project replicated Figures 1 and 2 from the original article.
 
 ### 1. Reproductibility 
 
-Ba et al. (2023) did not publish their code so it was challenging to develop the pipeline based on their . They relied heavily on a public GitHub repository from Wang et al. (2021), which analyzed scRNA-seq data of PBMCs from acute KD patients before and after IVIG therapy. 
+Ba et al. (2023) did not publish their code so it was challenging to develop the pipeline based on their explanations. They relied heavily on a public GitHub repository from Wang et al. (2021), which analyzed scRNA-seq data of PBMCs from acute KD patients before and after IVIG therapy. 
 
 This GitHub repo was also vague when dividing the samples into two batches, with batch 1 containing P1-4 and H1-3, and the second batch contained P5-6 and included a P7 that couldn't be found anywhere in the materials. 
 
