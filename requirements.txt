@@ -1,0 +1,10 @@
+tidyverse
+Seurat
+gridExtra
+ggpubr
+SingleR
+celldex
+AUCell
+GSEABase
+clusterProfiler
+org.Hs.eg.db
