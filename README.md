@@ -60,7 +60,7 @@ The project replicated Figures 1 and 2 from the original article.
 
 * The script first integrates the data. 
     
-* Created the CreateSeuratObject function with parameters of 
+* Created the `CreateSeuratObject` function with parameters of 
 
     * min.cell = 3
     * min.features = 200 
