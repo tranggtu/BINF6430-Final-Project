@@ -111,6 +111,13 @@ This GitHub repo was also vague when dividing the samples into two batches, with
 
 * Technical issues occured when we recreated the paper's plots.
 
+# References
+
+Ba, H., Zhang, L., Peng, H., Lin, J., Qin, Y., & Wang, Y. (2023). Integrative analysis of clinical and bioinformatics databases to reveal the role of peripheral innate immunity in Kawasaki disease. Mediators of Inflammation, 2023, 1–31. https://doi.org/10.1155/2023/6699050
+
+Wang, Z., Xie, L., Ding, G., Song, S., Chen, L., Li, G., Xia, M., Han, D., Zheng, Y., Liu, J., Xiao, T., Zhang, H., Huang, Y., Li, Y., & Huang, M. (2021). Single-cell RNA sequencing of peripheral blood mononuclear cells from acute Kawasaki disease patients. Nature Communications, 12(1). https://doi.org/10.1038/s41467-021-25771-5
+
+
 
 
 
